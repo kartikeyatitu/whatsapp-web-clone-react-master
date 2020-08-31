@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/whatsapp-web-clone-react-master/static/css/main.504e44a1.chunk.css",
+    "main.js": "/whatsapp-web-clone-react-master/static/js/main.54ad0a35.chunk.js",
+    "main.js.map": "/whatsapp-web-clone-react-master/static/js/main.54ad0a35.chunk.js.map",
+    "runtime-main.js": "/whatsapp-web-clone-react-master/static/js/runtime-main.a9d04b2a.js",
+    "runtime-main.js.map": "/whatsapp-web-clone-react-master/static/js/runtime-main.a9d04b2a.js.map",
+    "static/js/2.4baaaf42.chunk.js": "/whatsapp-web-clone-react-master/static/js/2.4baaaf42.chunk.js",
+    "static/js/2.4baaaf42.chunk.js.map": "/whatsapp-web-clone-react-master/static/js/2.4baaaf42.chunk.js.map",
+    "index.html": "/whatsapp-web-clone-react-master/index.html",
+    "precache-manifest.d8f7534fc5c7e03e24b38b3ab9e3c7a6.js": "/whatsapp-web-clone-react-master/precache-manifest.d8f7534fc5c7e03e24b38b3ab9e3c7a6.js",
+    "service-worker.js": "/whatsapp-web-clone-react-master/service-worker.js",
+    "static/css/main.504e44a1.chunk.css.map": "/whatsapp-web-clone-react-master/static/css/main.504e44a1.chunk.css.map",
+    "static/js/2.4baaaf42.chunk.js.LICENSE.txt": "/whatsapp-web-clone-react-master/static/js/2.4baaaf42.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/whatsapp-web-clone-react-master/static/media/search.231fed55.svg",
+    "static/media/done_all.svg": "/whatsapp-web-clone-react-master/static/media/done_all.211c1153.svg",
+    "static/media/intro-whatsapp.jpg": "/whatsapp-web-clone-react-master/static/media/intro-whatsapp.282a36f5.jpg",
+    "static/media/mic.svg": "/whatsapp-web-clone-react-master/static/media/mic.958bf042.svg",
+    "static/media/send.svg": "/whatsapp-web-clone-react-master/static/media/send.282ecb9e.svg",
+    "static/media/tag_faces.svg": "/whatsapp-web-clone-react-master/static/media/tag_faces.c50cc449.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d04b2a.js",
+    "static/js/2.4baaaf42.chunk.js",
+    "static/css/main.504e44a1.chunk.css",
+    "static/js/main.54ad0a35.chunk.js"
+  ]
+}
